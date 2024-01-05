@@ -5,3 +5,5 @@ Hey there! 👋 I'm Luo Shenshi, passionate about web development and Android de
 If you want to know about me more click on the link in my bio (It's a comic);
 
 Let's create something awesome together! 🌟
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=luoshenshi&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
