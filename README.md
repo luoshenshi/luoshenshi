@@ -1,8 +1,11 @@
 # Yo I'm Luo! 🚀
 
 ## About Me
-Hey there! 👋 I'm Luo Shenshi, passionate about web development and Android development. I'm interested in backend development and have a little experience in both frontend and backend technologies. I love coding in Java, and Node.js!
-If you want to know about me more click on the link in my bio (It's a comic);
+Hey there! 👋 I'm Luo Shenshi, passionate about web development and Android development. I'm interested in backend development and have a little experience in both frontend and backend technologies. I love coding in Java and Node.js!  
+
+I also enjoy reverse engineering and am currently learning more about it.  
+
+If you want to know more about me, click on the link in my bio (It's a comic)!
 
 Let's create something awesome together! 🌟
 
